@@ -1,0 +1,13 @@
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\bin\Debug\CPSnacks.exe.config
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\bin\Debug\CPSnacks.exe
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\bin\Debug\CPSnacks.pdb
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\bin\Debug\CPSnacks.xml
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\obj\Debug\CPSnacks.formfreeSnack.resources
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\obj\Debug\CPSnacks.Resources.resources
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\obj\Debug\CPSnacks.vbproj.GenerateResource.cache
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\obj\Debug\CPSnacks.vbproj.CoreCompileInputs.cache
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\obj\Debug\CPSnacks.exe
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\obj\Debug\CPSnacks.xml
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\obj\Debug\CPSnacks.pdb
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\obj\Debug\CPSnacks.vbproj.AssemblyReference.cache
+C:\Users\citym\source\repos\CPSnacks\CPSnacks\obj\Debug\CPSnacks.vbproj.SuggestedBindingRedirects.cache
